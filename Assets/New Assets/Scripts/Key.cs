@@ -16,3 +16,4 @@ public class Key : MonoBehaviour
         
     }
 }
+//interaction with the key object. When the player touches the key, they move to the next scene.
